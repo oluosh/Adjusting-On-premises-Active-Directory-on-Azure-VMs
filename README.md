@@ -1,0 +1,1 @@
+# Adjusting-On-premises-Active-Directory-on-Azure-VMs
